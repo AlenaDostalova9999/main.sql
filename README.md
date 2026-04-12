@@ -119,4 +119,11 @@ ORDER BY rok, rozdil_tempa_rustu DESC;
 
 _Odpověď:_
 Rok 2007, 2008, 2010
-6. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
+
+5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
+
+1. Vliv HDP na průměrné mzdy
+Z analýzy vyplývá, že HDP má vliv na vývoj mezd. Pokud ekonomika roste, průměrné mzdy obvykle rostou také, ale často až s odstupem zhruba jednoho roku.
+
+3. Vliv HDP na ceny potravin
+U cen potravin se naopak nepodařilo prokázat přímou souvislost s vývojem HDP. Ceny se totiž mění nezávisle na tom, jak se ekonomice daří, a mohou jak růst, tak klesat.
