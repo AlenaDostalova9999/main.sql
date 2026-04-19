@@ -10,6 +10,7 @@ Cílem projektu je porovnat dostupnost základních potravin s ohledem na prům�
 ## Výzkumné otázky
 ________________________________________________________________________________________________________________
 **1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?** I klesají, viz tabulka níže.
+
 **| Year | Industry_name | wage_difference |**
 |  |  |  |
 |---|---|---|
