@@ -200,11 +200,8 @@ ________________________________________________________________________________
 | 2018 | 3,2 | 5,17 | 0,29 | 2,41 |
 
 1. Vliv HDP na průměrné mzdy
-HDP mělo vliv na vývoj mezd, ale nemůžeme říct, že je to jediným vlivem. V roce 2008 byla výrazná ekonomická krize, která se projevila na výši HDP jen v roce 2009. 2010 už HDP rostlo, ale skrze krizi, mzdy jak v roce 2009, tak i v roce 2010 se žádného růstu nedočkaly. Trochu podobný případ je to pro léta 20011 - 2013. Na základě krize z roku 2008 vláda prosadila spoustu úsporných balíčků a to mělo další dopad na situaci. Už tak snížená poptávka byla ještě nižší, protože spotřebitelé měli ještě větší strach, který před lety vyvolala zmíněná krize z roku 2008.
+Vliv HDP na mzdy se nedá popřít, ale nemusí se projevit okamžitě, a rozhodně nebývá jediným činitelem. V roce 2008 se svět potýkal s ekonomickou krizí, a to se promítlo do propadu českého HDP a mezd v roce 2009. Dalo by se říct, že když HDP v roce 2010 rostlo, měly by i mzdy, ale zde se do tohoto trendu promítá strach firem způsobený krizí. Kvůli opatrnosti firem se mzdy nedočkaly růstu ani v roce 2010 (reakce zpožděná o jeden rok). Obdobnou situaci můžeme pozorovat mezi lety 2011 a 2013. Krize vedla k tomu, že vláda zavedla v roce 2011 úsporné balíčky, což oslabilo poptávku. Spotřebitelé i firmy byly mnohem opatrnější, takže následkem toho HDP pokleslo v roce 2012 a 2013, a mzdy se zpožděním v roce 2013.
 
-
-2.  Vliv HDP na ceny potravin
-V podstatě obdobná situace je u vlivu krize na vývoj cen potravin. Opět se recese projevuje s menším zpožděním. Ceny potravin poklesly v roce 2009 a pak vlivem strachu spotřebitelů cokoliv kupovat se cena potravin kontinuálně snižovala v letech 2013 - 2016.
-Dalo by se říci, že pokles HDP a pokles mezd má vliv na pokles cen potravin. Nelze ale však vyloučit, že se na tom podílely i ostatní ekonomické jevy.
-
+2. Vliv HDP na ceny potravin
+Dopad HDP na ceny potravin je mnohem slabší. V roce 2009 sice potraviny klesly, ale v letech 2012-2013, čili v době zavedení úsporného balíčku, kdy poklesly i mzdy, ceny potravin naopak rostly. Tím pádem můžeme usuzovat, že ceny potravin nejsou taženy hlavně HDP anebo kupní silou obyvatelstva. Jsou naopak ovlivňovány různými vnějšími faktory, jako jsou globální ceny komodit, zvyšování sazeb DPH v rámci úsporných balíčků atp
 ___________________________________________________________________________________________________________________
