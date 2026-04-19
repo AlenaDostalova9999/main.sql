@@ -128,6 +128,8 @@ ________________________________________________________________________________
 | 2018 | Činnosti v oblasti nemovitostí | Mléko polotučné pasterované | 1418.0 | l |
 _________________________________________________________________________________________________________________
 **3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
+_Odpověď:_ cukr krystalový, viz tabulka niže 
+
 | product_name |avg_yoy_growth_percentage|
 |---|---|
 | Cukr krystalový | -1,92 |
@@ -159,43 +161,24 @@ ________________________________________________________________________________
 | Papriky | 7,29 |
 __________________________________________________________________________________________________________________
 **4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
-
-_Upravíme skript následovně, v konečné části uděláme změnu:_
-
-SELECT 
-    v.payroll_year AS rok,
-    v.jmeno_odvetvi,
-    v.prumerna_mzda,
-    c.nazev_produktu,
-    c.prumerna_cena,
-    -- 1. Rostou nebo klesají mzdy?
-    CASE
-        WHEN v.prumerna_mzda  > v.predchozi_prumerna_mzda  THEN 'Růst'
-        WHEN v.prumerna_mzda  < v.predchozi_prumerna_mzda  THEN 'Pokles'
-        ELSE 'Stagnace/První rok'
-    END AS trend_mezd,
-    -- 2. Kolik si jich koupím?
-    FLOOR(v.prumerna_mzda  / c.prumerna_cena) AS pocet_kusu_za_mzdu,
-    c.price_unit,
-    -- 3. Procento změny ceny
-    ROUND(((c.prumerna_cena - c.predchozi_prumerna_cena) / c.predchozi_prumerna_cena * 100)::numeric, 2) AS zmena_ceny_procenta,
-    -- 4. Rozdíl temp (ceny vs mzdy)
-    ROUND((((c.prumerna_cena - c.predchozi_prumerna_cena) / c.predchozi_prumerna_cena * 100) - ((v.prumerna_mzda  - v.predchozi_prumerna_mzda ) / v.predchozi_prumerna_mzda  * 100))::numeric, 2) AS rozdil_tempa_rustu,
-    -- NOVINKA: hledá se rozdíl o 10 %
-    CASE 
-        WHEN (((c.prumerna_cena - c.predchozi_prumerna_cena) / c.predchozi_prumerna_cena * 100) - ((v.prumerna_mzda  - v.predchozi_prumerna_mzda ) / v.predchozi_prumerna_mzda  * 100)) > 10 THEN 'ANO'
-        ELSE 'NE'
-    END AS narust_ceny_o_10_procent_vyssi_nez_mzdy
-
-FROM vypocet_prumernych_mezd v
-JOIN ceny_potravin c ON v.payroll_year = c.rok
-WHERE 
-    -- Tady aplikujeme filtr na 10% rozdíl
-    (((c.prumerna_cena - c.predchozi_prumerna_cena) / c.predchozi_prumerna_cena * 100) - ((v.prumerna_mzda  - v.predchozi_prumerna_mzda ) / v.predchozi_prumerna_mzda  * 100)) > 10
-ORDER BY rok, rozdil_tempa_rustu DESC;
-
 _Odpověď:_
-Rok 2007, 2008, 2010
+V období mezi lety 2007 a 2018 takový rok neexistuje.
+
+| Year | food_growth_pct | wage_growth_pct | difference |
+|  |  |  |  |
+|---|---|---|---|
+| 2007 | 6,34 | 6,89 | -0,55 |
+| 2008 | 6,41 | 7,7 | -1,29 |
+| 2009 | -6,8 | 3,09 | -9,89 |
+| 2010 | 1,77 | 1,92 | -0,16 |
+| 2011 | 3,5 | 2,34 | 1,15 |
+| 2012 | 6,92 | 2,91 | 4,01 |
+| 2013 | 5,55 | -1,49 | 7,04 |
+| 2014 | 0,89 | 2,59 | -1,7 |
+| 2015 | -0,56 | 2,62 | -3,18 |
+| 2016 | -1,12 | 3,68 | -4,8 |
+| 2017 | 9,98 | 6,19 | 3,78 |
+| 2018 | 1,94 | 7,72 | -5,78 |
 _________________________________________________________________________________________________________________
 **5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?**
 
