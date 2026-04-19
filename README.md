@@ -165,7 +165,7 @@ _Odpověď:_
 V období mezi lety 2007 a 2018 takový rok neexistuje.
 
 | Year | food_growth_pct | wage_growth_pct | difference |
-|  |  |  |  |
+|  |  |  |
 |---|---|---|---|
 | 2007 | 6,34 | 6,89 | -0,55 |
 | 2008 | 6,41 | 7,7 | -1,29 |
