@@ -45,119 +45,86 @@ ________________________________________________________________________________
 | 2021 | Vzdělávání |
 | 2021 | Zemědělství, lesnictví, rybářství |
 
-
-| 2009 | Těžba a dobývání                                             |
-| 2009 | Ubytování, stravování a pohostinství                         |
-| 2009 | Zemědělství, lesnictví, rybářství                            |
-| 2009 | Činnosti v oblasti nemovitostí                               |
-| 2010 | Profesní, vědecké a technické činnosti                       |
-| 2010 | Veřejná správa a obrana; povinné sociální zabezpečení        |
-| 2010 | Vzdělávání                                                   |
-| 2011 | Doprava a skladování                                         |
-| 2011 | Ubytování, stravování a pohostinství                         |
-| 2011 | Veřejná správa a obrana; povinné sociální zabezpečení        |
-| 2011 | Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu  |
-| 2013 | Administrativní a podpůrné činnosti                          |
-| 2013 | Informační a komunikační činnosti                            |
-| 2013 | Kulturní, zábavní a rekreační činnosti                       |
-| 2013 | Peněžnictví a pojišťovnictví                                 |
-| 2013 | Profesní, vědecké a technické činnosti                       |
-| 2013 | Stavebnictví                                                 |
-| 2013 | Těžba a dobývání                                             |
-| 2013 | Velkoobchod a maloobchod; opravy a údržba motorových vozidel |
-| 2013 | Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu  |
-| 2013 | Zásobování vodou; činnosti související s odpady a sanacemi   |
-| 2013 | Činnosti v oblasti nemovitostí                               |
-| 2014 | Těžba a dobývání                                             |
-| 2015 | Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu  |
-| 2016 | Těžba a dobývání                                             |
-| 2020 | Ubytování, stravování a pohostinství                         |
-| 2020 | Činnosti v oblasti nemovitostí                               |
-| 2021 | Kulturní, zábavní a rekreační činnosti                       |
-| 2021 | Stavebnictví                                                 |
-| 2021 | Veřejná správa a obrana; povinné sociální zabezpečení        |
-| 2021 | Vzdělávání                                                   |
-| 2021 | Zemědělství, lesnictví, rybářství                            |
-
 _________________________________________________________________________________________________________________
 **2. Kolik litrů mléka a kg chleba si lze koupit za první a poslední srovnatelné období?**
-| 2006 | Administrativní a podpůrné činnosti                          | Chléb konzumní kmínový      | 895.0  | kg |
-| 2006 | Doprava a skladování                                         | Chléb konzumní kmínový      | 1194.0 | kg |
-| 2006 | Informační a komunikační činnosti                            | Chléb konzumní kmínový      | 2219.0 | kg |
-| 2006 | Kulturní, zábavní a rekreační činnosti                       | Chléb konzumní kmínový      | 1043.0 | kg |
-| 2006 | Ostatní činnosti                                             | Chléb konzumní kmínový      | 1022.0 | kg |
-| 2006 | Peněžnictví a pojišťovnictví                                 | Chléb konzumní kmínový      | 2482.0 | kg |
-| 2006 | Profesní, vědecké a technické činnosti                       | Chléb konzumní kmínový      | 1528.0 | kg |
-| 2006 | Stavebnictví                                                 | Chléb konzumní kmínový      | 1107.0 | kg |
-| 2006 | Těžba a dobývání                                             | Chléb konzumní kmínový      | 1492.0 | kg |
-| 2006 | Ubytování, stravování a pohostinství                         | Chléb konzumní kmínový      | 724.0  | kg |
-| 2006 | Velkoobchod a maloobchod; opravy a údržba motorových vozidel | Chléb konzumní kmínový      | 1130.0 | kg |
-| 2006 | Veřejná správa a obrana; povinné sociální zabezpečení        | Chléb konzumní kmínový      | 1444.0 | kg |
-| 2006 | Vzdělávání                                                   | Chléb konzumní kmínový      | 1242.0 | kg |
-| 2006 | Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu  | Chléb konzumní kmínový      | 1811.0 | kg |
-| 2006 | Zdravotní a sociální péče                                    | Chléb konzumní kmínový      | 1180.0 | kg |
-| 2006 | Zemědělství, lesnictví, rybářství                            | Chléb konzumní kmínový      | 919.0  | kg |
-| 2006 | Zpracovatelský průmysl                                       | Chléb konzumní kmínový      | 1146.0 | kg |
-| 2006 | Zásobování vodou; činnosti související s odpady a sanacemi   | Chléb konzumní kmínový      | 1162.0 | kg |
-| 2006 | Činnosti v oblasti nemovitostí                               | Chléb konzumní kmínový      | 1193.0 | kg |
-| 2006 | Administrativní a podpůrné činnosti                          | Mléko polotučné pasterované | 1000.0 | l  |
-| 2006 | Doprava a skladování                                         | Mléko polotučné pasterované | 1333.0 | l  |
-| 2006 | Informační a komunikační činnosti                            | Mléko polotučné pasterované | 2479.0 | l  |
-| 2006 | Kulturní, zábavní a rekreační činnosti                       | Mléko polotučné pasterované | 1165.0 | l  |
-| 2006 | Ostatní činnosti                                             | Mléko polotučné pasterované | 1141.0 | l  |
-| 2006 | Peněžnictví a pojišťovnictví                                 | Mléko polotučné pasterované | 2772.0 | l  |
-| 2006 | Profesní, vědecké a technické činnosti                       | Mléko polotučné pasterované | 1706.0 | l  |
-| 2006 | Stavebnictví                                                 | Mléko polotučné pasterované | 1236.0 | l  |
-| 2006 | Těžba a dobývání                                             | Mléko polotučné pasterované | 1666.0 | l  |
-| 2006 | Ubytování, stravování a pohostinství                         | Mléko polotučné pasterované | 808.0  | l  |
-| 2006 | Velkoobchod a maloobchod; opravy a údržba motorových vozidel | Mléko polotučné pasterované | 1262.0 | l  |
-| 2006 | Veřejná správa a obrana; povinné sociální zabezpečení        | Mléko polotučné pasterované | 1612.0 | l  |
-| 2006 | Vzdělávání                                                   | Mléko polotučné pasterované | 1387.0 | l  |
-| 2006 | Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu  | Mléko polotučné pasterované | 2023.0 | l  |
-| 2006 | Zdravotní a sociální péče                                    | Mléko polotučné pasterované | 1318.0 | l  |
-| 2006 | Zemědělství, lesnictví, rybářství                            | Mléko polotučné pasterované | 1026.0 | l  |
-| 2006 | Zpracovatelský průmysl                                       | Mléko polotučné pasterované | 1280.0 | l  |
-| 2006 | Zásobování vodou; činnosti související s odpady a sanacemi   | Mléko polotučné pasterované | 1297.0 | l  |
-| 2006 | Činnosti v oblasti nemovitostí                               | Mléko polotučné pasterované | 1332.0 | l  |
-| 2018 | Administrativní a podpůrné činnosti                          | Chléb konzumní kmínový      | 864.0  | kg |
-| 2018 | Doprava a skladování                                         | Chléb konzumní kmínový      | 1215.0 | kg |
-| 2018 | Informační a komunikační činnosti                            | Chléb konzumní kmínový      | 2340.0 | kg |
-| 2018 | Kulturní, zábavní a rekreační činnosti                       | Chléb konzumní kmínový      | 1171.0 | kg |
-| 2018 | Ostatní činnosti                                             | Chléb konzumní kmínový      | 977.0  | kg |
-| 2018 | Peněžnictví a pojišťovnictví                                 | Chléb konzumní kmínový      | 2264.0 | kg |
-| 2018 | Profesní, vědecké a technické činnosti                       | Chléb konzumní kmínový      | 1608.0 | kg |
-| 2018 | Stavebnictví                                                 | Chléb konzumní kmínový      | 1162.0 | kg |
-| 2018 | Těžba a dobývání                                             | Chléb konzumní kmínový      | 1486.0 | kg |
-| 2018 | Ubytování, stravování a pohostinství                         | Chléb konzumní kmínový      | 794.0  | kg |
-| 2018 | Velkoobchod a maloobchod; opravy a údržba motorových vozidel | Chléb konzumní kmínový      | 1236.0 | kg |
-| 2018 | Veřejná správa a obrana; povinné sociální zabezpečení        | Chléb konzumní kmínový      | 1498.0 | kg |
-| 2018 | Vzdělávání                                                   | Chléb konzumní kmínový      | 1297.0 | kg |
-| 2018 | Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu  | Chléb konzumní kmínový      | 1913.0 | kg |
-| 2018 | Zdravotní a sociální péče                                    | Chléb konzumní kmínový      | 1397.0 | kg |
-| 2018 | Zemědělství, lesnictví, rybářství                            | Chléb konzumní kmínový      | 1050.0 | kg |
-| 2018 | Zpracovatelský průmysl                                       | Chléb konzumní kmínový      | 1315.0 | kg |
-| 2018 | Zásobování vodou; činnosti související s odpady a sanacemi   | Chléb konzumní kmínový      | 1185.0 | kg |
-| 2018 | Činnosti v oblasti nemovitostí                               | Chléb konzumní kmínový      | 1159.0 | kg |
-| 2018 | Administrativní a podpůrné činnosti                          | Mléko polotučné pasterované | 1057.0 | l  |
-| 2018 | Doprava a skladování                                         | Mléko polotučné pasterované | 1486.0 | l  |
-| 2018 | Informační a komunikační činnosti                            | Mléko polotučné pasterované | 2862.0 | l  |
-| 2018 | Kulturní, zábavní a rekreační činnosti                       | Mléko polotučné pasterované | 1433.0 | l  |
-| 2018 | Ostatní činnosti                                             | Mléko polotučné pasterované | 1195.0 | l  |
-| 2018 | Peněžnictví a pojišťovnictví                                 | Mléko polotučné pasterované | 2769.0 | l  |
-| 2018 | Profesní, vědecké a technické činnosti                       | Mléko polotučné pasterované | 1967.0 | l  |
-| 2018 | Stavebnictví                                                 | Mléko polotučné pasterované | 1421.0 | l  |
-| 2018 | Těžba a dobývání                                             | Mléko polotučné pasterované | 1818.0 | l  |
-| 2018 | Ubytování, stravování a pohostinství                         | Mléko polotučné pasterované | 972.0  | l  |
-| 2018 | Velkoobchod a maloobchod; opravy a údržba motorových vozidel | Mléko polotučné pasterované | 1512.0 | l  |
-| 2018 | Veřejná správa a obrana; povinné sociální zabezpečení        | Mléko polotučné pasterované | 1832.0 | l  |
-| 2018 | Vzdělávání                                                   | Mléko polotučné pasterované | 1586.0 | l  |
-| 2018 | Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu  | Mléko polotučné pasterované | 2340.0 | l  |
-| 2018 | Zdravotní a sociální péče                                    | Mléko polotučné pasterované | 1708.0 | l  |
-| 2018 | Zemědělství, lesnictví, rybářství                            | Mléko polotučné pasterované | 1285.0 | l  |
-| 2018 | Zpracovatelský průmysl                                       | Mléko polotučné pasterované | 1609.0 | l  |
-| 2018 | Zásobování vodou; činnosti související s odpady a sanacemi   | Mléko polotučné pasterované | 1449.0 | l  |
-| 2018 | Činnosti v oblasti nemovitostí                               | Mléko polotučné pasterované | 1418.0 | l  |
-
+|  |  |  |  |  |
+|---|---|---|---|---|
+| 2006 | Administrativní a podpůrné činnosti | Chléb konzumní kmínový | 895.0 | kg |
+| 2006 | Doprava a skladování | Chléb konzumní kmínový | 1194.0 | kg |
+| 2006 | Informační a komunikační činnosti | Chléb konzumní kmínový | 2219.0 | kg |
+| 2006 | Kulturní, zábavní a rekreační činnosti | Chléb konzumní kmínový | 1043.0 | kg |
+| 2006 | Ostatní činnosti | Chléb konzumní kmínový | 1022.0 | kg |
+| 2006 | Peněžnictví a pojišťovnictví | Chléb konzumní kmínový | 2482.0 | kg |
+| 2006 | Profesní, vědecké a technické činnosti | Chléb konzumní kmínový | 1528.0 | kg |
+| 2006 | Stavebnictví | Chléb konzumní kmínový | 1107.0 | kg |
+| 2006 | Těžba a dobývání | Chléb konzumní kmínový | 1492.0 | kg |
+| 2006 | Ubytování, stravování a pohostinství | Chléb konzumní kmínový | 724.0 | kg |
+| 2006 | Velkoobchod a maloobchod; opravy a údržba motorových vozidel | Chléb konzumní kmínový | 1130.0 | kg |
+| 2006 | Veřejná správa a obrana; povinné sociální zabezpečení | Chléb konzumní kmínový | 1444.0 | kg |
+| 2006 | Vzdělávání | Chléb konzumní kmínový | 1242.0 | kg |
+| 2006 | Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu | Chléb konzumní kmínový | 1811.0 | kg |
+| 2006 | Zdravotní a sociální péče | Chléb konzumní kmínový | 1180.0 | kg |
+| 2006 | Zemědělství, lesnictví, rybářství | Chléb konzumní kmínový | 919.0 | kg |
+| 2006 | Zpracovatelský průmysl | Chléb konzumní kmínový | 1146.0 | kg |
+| 2006 | Zásobování vodou; činnosti související s odpady a sanacemi | Chléb konzumní kmínový | 1162.0 | kg |
+| 2006 | Činnosti v oblasti nemovitostí | Chléb konzumní kmínový | 1193.0 | kg |
+| 2006 | Administrativní a podpůrné činnosti | Mléko polotučné pasterované | 1000.0 | l |
+| 2006 | Doprava a skladování | Mléko polotučné pasterované | 1333.0 | l |
+| 2006 | Informační a komunikační činnosti | Mléko polotučné pasterované | 2479.0 | l |
+| 2006 | Kulturní, zábavní a rekreační činnosti | Mléko polotučné pasterované | 1165.0 | l |
+| 2006 | Ostatní činnosti | Mléko polotučné pasterované | 1141.0 | l |
+| 2006 | Peněžnictví a pojišťovnictví | Mléko polotučné pasterované | 2772.0 | l |
+| 2006 | Profesní, vědecké a technické činnosti | Mléko polotučné pasterované | 1706.0 | l |
+| 2006 | Stavebnictví | Mléko polotučné pasterované | 1236.0 | l |
+| 2006 | Těžba a dobývání | Mléko polotučné pasterované | 1666.0 | l |
+| 2006 | Ubytování, stravování a pohostinství | Mléko polotučné pasterované | 808.0 | l |
+| 2006 | Velkoobchod a maloobchod; opravy a údržba motorových vozidel | Mléko polotučné pasterované | 1262.0 | l |
+| 2006 | Veřejná správa a obrana; povinné sociální zabezpečení | Mléko polotučné pasterované | 1612.0 | l |
+| 2006 | Vzdělávání | Mléko polotučné pasterované | 1387.0 | l |
+| 2006 | Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu | Mléko polotučné pasterované | 2023.0 | l |
+| 2006 | Zdravotní a sociální péče | Mléko polotučné pasterované | 1318.0 | l |
+| 2006 | Zemědělství, lesnictví, rybářství | Mléko polotučné pasterované | 1026.0 | l |
+| 2006 | Zpracovatelský průmysl | Mléko polotučné pasterované | 1280.0 | l |
+| 2006 | Zásobování vodou; činnosti související s odpady a sanacemi | Mléko polotučné pasterované | 1297.0 | l |
+| 2006 | Činnosti v oblasti nemovitostí | Mléko polotučné pasterované | 1332.0 | l |
+| 2018 | Administrativní a podpůrné činnosti | Chléb konzumní kmínový | 864.0 | kg |
+| 2018 | Doprava a skladování | Chléb konzumní kmínový | 1215.0 | kg |
+| 2018 | Informační a komunikační činnosti | Chléb konzumní kmínový | 2340.0 | kg |
+| 2018 | Kulturní, zábavní a rekreační činnosti | Chléb konzumní kmínový | 1171.0 | kg |
+| 2018 | Ostatní činnosti | Chléb konzumní kmínový | 977.0 | kg |
+| 2018 | Peněžnictví a pojišťovnictví | Chléb konzumní kmínový | 2264.0 | kg |
+| 2018 | Profesní, vědecké a technické činnosti | Chléb konzumní kmínový | 1608.0 | kg |
+| 2018 | Stavebnictví | Chléb konzumní kmínový | 1162.0 | kg |
+| 2018 | Těžba a dobývání | Chléb konzumní kmínový | 1486.0 | kg |
+| 2018 | Ubytování, stravování a pohostinství | Chléb konzumní kmínový | 794.0 | kg |
+| 2018 | Velkoobchod a maloobchod; opravy a údržba motorových vozidel | Chléb konzumní kmínový | 1236.0 | kg |
+| 2018 | Veřejná správa a obrana; povinné sociální zabezpečení | Chléb konzumní kmínový | 1498.0 | kg |
+| 2018 | Vzdělávání | Chléb konzumní kmínový | 1297.0 | kg |
+| 2018 | Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu | Chléb konzumní kmínový | 1913.0 | kg |
+| 2018 | Zdravotní a sociální péče | Chléb konzumní kmínový | 1397.0 | kg |
+| 2018 | Zemědělství, lesnictví, rybářství | Chléb konzumní kmínový | 1050.0 | kg |
+| 2018 | Zpracovatelský průmysl | Chléb konzumní kmínový | 1315.0 | kg |
+| 2018 | Zásobování vodou; činnosti související s odpady a sanacemi | Chléb konzumní kmínový | 1185.0 | kg |
+| 2018 | Činnosti v oblasti nemovitostí | Chléb konzumní kmínový | 1159.0 | kg |
+| 2018 | Administrativní a podpůrné činnosti | Mléko polotučné pasterované | 1057.0 | l |
+| 2018 | Doprava a skladování | Mléko polotučné pasterované | 1486.0 | l |
+| 2018 | Informační a komunikační činnosti | Mléko polotučné pasterované | 2862.0 | l |
+| 2018 | Kulturní, zábavní a rekreační činnosti | Mléko polotučné pasterované | 1433.0 | l |
+| 2018 | Ostatní činnosti | Mléko polotučné pasterované | 1195.0 | l |
+| 2018 | Peněžnictví a pojišťovnictví | Mléko polotučné pasterované | 2769.0 | l |
+| 2018 | Profesní, vědecké a technické činnosti | Mléko polotučné pasterované | 1967.0 | l |
+| 2018 | Stavebnictví | Mléko polotučné pasterované | 1421.0 | l |
+| 2018 | Těžba a dobývání | Mléko polotučné pasterované | 1818.0 | l |
+| 2018 | Ubytování, stravování a pohostinství | Mléko polotučné pasterované | 972.0 | l |
+| 2018 | Velkoobchod a maloobchod; opravy a údržba motorových vozidel | Mléko polotučné pasterované | 1512.0 | l |
+| 2018 | Veřejná správa a obrana; povinné sociální zabezpečení | Mléko polotučné pasterované | 1832.0 | l |
+| 2018 | Vzdělávání | Mléko polotučné pasterované | 1586.0 | l |
+| 2018 | Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu | Mléko polotučné pasterované | 2340.0 | l |
+| 2018 | Zdravotní a sociální péče | Mléko polotučné pasterované | 1708.0 | l |
+| 2018 | Zemědělství, lesnictví, rybářství | Mléko polotučné pasterované | 1285.0 | l |
+| 2018 | Zpracovatelský průmysl | Mléko polotučné pasterované | 1609.0 | l |
+| 2018 | Zásobování vodou; činnosti související s odpady a sanacemi | Mléko polotučné pasterované | 1449.0 | l |
+| 2018 | Činnosti v oblasti nemovitostí | Mléko polotučné pasterované | 1418.0 | l |
 _________________________________________________________________________________________________________________
 **3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
 _Upravíme skript následovně, v konečné části uděláme tuto změnu:_
