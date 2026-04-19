@@ -165,7 +165,7 @@ _Odpověď:_
 V období mezi lety 2007 a 2018 takový rok neexistuje.
 
 | Year | food_growth_pct | wage_growth_pct | difference |
-|  |  |  |
+|  |  |  |  |
 |---|---|---|---|
 | 2007 | 6,34 | 6,89 | -0,55 |
 | 2008 | 6,41 | 7,7 | -1,29 |
@@ -179,12 +179,32 @@ V období mezi lety 2007 a 2018 takový rok neexistuje.
 | 2016 | -1,12 | 3,68 | -4,8 |
 | 2017 | 9,98 | 6,19 | 3,78 |
 | 2018 | 1,94 | 7,72 | -5,78 |
+
 _________________________________________________________________________________________________________________
 **5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?**
 
-1. Vliv HDP na průměrné mzdy
-Z analýzy vyplývá, že HDP má vliv na vývoj mezd. Pokud ekonomika roste, průměrné mzdy obvykle rostou také, ale často až s odstupem zhruba jednoho roku.
+| Year | gdp_growth | gdp_growth_lagged | wage_growth | food_growth |
+|  |  |  |  |  |
+|---|---|---|---|---|
+| 2007 | 5,57 |  | 0,27 | 9,26 |
+| 2008 | 2,69 | 5,57 | 0,27 | 8,92 |
+| 2009 | -4,66 | 2,69 | 0,11 | -6,58 |
+| 2010 | 2,43 | -4,66 | 0,08 | 1,51 |
+| 2011 | 1,76 | 2,43 | 0,09 | 4,84 |
+| 2012 | -0,79 | 1,76 | 0,1 | 7,47 |
+| 2013 | -0,05 | -0,79 | -0,03 | 6,01 |
+| 2014 | 2,26 | -0,05 | 0,1 | -0,63 |
+| 2015 | 5,39 | 2,26 | 0,11 | -0,69 |
+| 2016 | 2,54 | 5,39 | 0,15 | -1,41 |
+| 2017 | 5,17 | 2,54 | 0,24 | 7,06 |
+| 2018 | 3,2 | 5,17 | 0,29 | 2,41 |
 
-3. Vliv HDP na ceny potravin
-U cen potravin se naopak nepodařilo prokázat přímou souvislost s vývojem HDP. Ceny se totiž mění nezávisle na tom, jak se ekonomice daří, a mohou jak růst, tak klesat.
+1. Vliv HDP na průměrné mzdy
+HDP mělo vliv na vývoj mezd, ale nemůžeme říct, že je to jediným vlivem. V roce 2008 byla výrazná ekonomická krize, která se projevila na výši HDP jen v roce 2009. 2010 už HDP rostlo, ale skrze krizi, mzdy jak v roce 2009, tak i v roce 2010 se žádného růstu nedočkaly. Trochu podobný případ je to pro léta 20011 - 2013. Na základě krize z roku 2008 vláda prosadila spoustu úsporných balíčků a to mělo další dopad na situaci. Už tak snížená poptávka byla ještě nižší, protože spotřebitelé měli ještě větší strach, který před lety vyvolala zmíněná krize z roku 2008.
+
+
+2.  Vliv HDP na ceny potravin
+V podstatě obdobná situace je u vlivu krize na vývoj cen potravin. Opět se recese projevuje s menším zpožděním. Ceny potravin poklesly v roce 2009 a pak vlivem strachu spotřebitelů cokoliv kupovat se cena potravin kontinuálně snižovala v letech 2013 - 2016.
+Dalo by se říci, že pokles HDP a pokles mezd má vliv na pokles cen potravin. Nelze ale však vyloučit, že se na tom podílely i ostatní ekonomické jevy.
+
 ___________________________________________________________________________________________________________________
