@@ -16,7 +16,7 @@ SELECT
     average_wage,
     previous_average_wage,
     -- Výpočet rozdílu pro jasný důkaz poklesu
-    ROUND(average_wage - previous_average_wage, 2) AS rozdil_v_penezich
+    ROUND(average_wage - previous_average_wage, 2) AS wage_difference
 FROM average_wage_calculation
 WHERE average_wage < previous_average_wage -- Tady filtrujeme jen ty poklesy
 ORDER BY year, industry_name;
