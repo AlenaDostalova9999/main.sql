@@ -1,4 +1,4 @@
-CREATE OR REPLACE TABLE t_alena_dostalova_project_SQL_primary_final AS
+CREATE TABLE t_alena_dostalova_project_SQL_primary_final AS
 WITH wage_prep AS (
     -- Příprava mezd: průměr za odvětví a rok
     SELECT 
